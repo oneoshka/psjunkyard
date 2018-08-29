@@ -1,2 +1,2 @@
 # psjunkyard
-all kind of scripts
+all kinds of powershell scripts
